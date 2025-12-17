@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118832754478",
+    "project_id": "writodo-9b199",
+    "storage_bucket": "writodo-9b199.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118832754478:android:2665e650e56279724494bf",
+        "android_client_info": {
+          "package_name": "com.kappakod.writodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfz4PsM8JCBM8a3v-f0Xcepp-MPGA0uWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

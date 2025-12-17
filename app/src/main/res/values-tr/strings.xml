@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">writodo</string>
+    <string name="enjoy">Tadını çıkarın!</string>
+    <string name="keep_going">Devam et!</string>
+    <string name="add_a_new_todo">Yeni yapılacak ekle</string>
+    <string name="headline">Başlık</string>
+    <string name="save">Kaydet</string>
+    <string name="cancel">İptal</string>
+    <string name="empty_field">Lütfen bir şey girin.</string>
+    <string name="todos">Yapılacaklar</string>
+    <string name="priorities">Öncelikler</string>
+</resources>

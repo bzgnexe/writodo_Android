@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">writodo</string>
+    <string name="enjoy">Enjoy!</string>
+    <string name="keep_going">Keep going!</string>
+    <string name="add_a_new_todo">Add a new to do!</string>
+    <string name="headline">Headline</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty_field">Please enter a anything</string>
+    <string name="todos">ToDos</string>
+    <string name="priorities">Priorities</string>
+</resources>
